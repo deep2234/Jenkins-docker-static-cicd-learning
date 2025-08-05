@@ -88,7 +88,7 @@ ngrok http 8080
 
 ## 📸 Screenshots
 
-- **Build Success in Jenkins**
-- **Webhook Delivered**
+![screenshot](jenkins.png)
+![screenshot](webhook.png)
 
 ---
