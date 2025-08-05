@@ -11,6 +11,8 @@ my-jenkins-docker-static-app/
 ├── index.html        # Static website homepage
 ├── Dockerfile        # Docker image to serve the static site
 ├── Jenkinsfile       # Jenkins pipeline configuration
+├── style.css        
+├── script.js
 └── ...
 ```
 
@@ -88,7 +90,5 @@ ngrok http 8080
 
 - **Build Success in Jenkins**
 - **Webhook Delivered**
-
-*(Note: Add actual screenshots to the `screenshots` folder and link them here if available)*
 
 ---
