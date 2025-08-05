@@ -37,6 +37,14 @@ my-jenkins-docker-static-app/
 
 ---
 
+## 📸 Screenshots
+
+![screenshot](jenkins.png)
+![screenshot](webhook.png)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -83,12 +91,5 @@ ngrok http 8080
 2. GitHub sends a webhook
 3. Jenkins pulls code, builds Docker container
 4. The updated site is automatically deployed
-
----
-
-## 📸 Screenshots
-
-![screenshot](jenkins.png)
-![screenshot](webhook.png)
 
 ---
