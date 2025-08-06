@@ -20,10 +20,10 @@ my-jenkins-docker-static-app/
 
 ## 🔧 Technologies Used
 
-- **HTML, CSS, JS** – Static site content  
-- **Docker** – Containerizes the static app  
-- **Jenkins** – Automates the CI/CD pipeline  
-- **GitHub Webhooks** – Triggers Jenkins jobs on every push  
+- **HTML, CSS, JS** – Static site content.
+- **Docker** – Containerizes the static app.  
+- **Jenkins** – Automates the CI/CD pipeline.  
+- **GitHub Webhooks** – Triggers Jenkins jobs on every push.  
 - **ngrok** – Temporarily exposes localhost to the internet (for testing webhooks)
 
 ---
